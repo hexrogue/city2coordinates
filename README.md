@@ -1,5 +1,7 @@
 # City to Coordinates (Malaysia)
 
+![Demo](demo1.gif)
+
 This repository converts Malaysian cities and districts into latitude and longitude coordinates.
 
 It uses the OpenStreetMap Nominatim API to search locations and stores the results in a SQLite database.
